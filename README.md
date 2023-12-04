@@ -1,2 +1,2 @@
 # ExtensaoDFlash
-An internal extension 
+Extensão para buscar atendimentos no opa.
